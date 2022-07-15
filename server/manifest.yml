@@ -1,10 +1,10 @@
   applications:
-  - name: djangoapp-final-bk33
+  - name: djangoapp-final-re44
     routes:
       - route: regade12345.mybluemix.net
     memory: 128M
     buildpack: python_buildpack
-  - name: djangoapp-final-nginx-bk33
+  - name: djangoapp-final-nginx-re44
     routes:
       - route: regade12345.mybluemix.net/static
     memory: 128M
